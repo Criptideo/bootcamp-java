@@ -1,1 +1,1 @@
-Vou ajeitar o readdme depois
+Todos os exercícios do Bootcamp da DIO CI&T
